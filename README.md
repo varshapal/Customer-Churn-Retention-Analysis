@@ -20,3 +20,7 @@ IBM Telco Customer Churn dataset containing 7,043 customer records and 21 column
 
 ## Project Status
 Completed – SQL analysis, Python EDA, and Power BI dashboard.
+
+## Power BI Dashboard
+![Uploading Customer_Churn_Dashboard.png…]()
+
